@@ -25,7 +25,10 @@ making this determination.
 	sklearn GridSearch module. Writes text files with results and returns an optimal classifier.
 - show_eval_graphs.py -> Compares performance of supervised learning algorithms from Models.py by
 	graphing their results on the cleaned dataset.
+- Supplemental Materials -> Jupyter notebooks and a visual.py script provided by Udacity as part of their
+	Intro to Machine Learning Nanodegree
 
 # Usage
 
-- python find_donors.py
+- python find_donors.py -> may take a while, considering it finds and optimizes the best classifier
+  for the dataset.
